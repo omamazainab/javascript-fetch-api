@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.suggestions {
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+    padding: 0em;
+}
+
+li {
+    background-color: white;
+    width: 35vw;
+    margin: 0 auto;
+    padding: 1vh 1vw;
+}
+
+.h1{
+    background-color: cyan;
+}
